@@ -4,7 +4,7 @@ import {
     Outlet
 } from "react-router-dom";
 import React from 'react'
-import State from "../Pages/State";
+import State from "../pages/State";
 
 function Layout() {
     return (
